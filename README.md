@@ -16,6 +16,7 @@ I'm a software engineer in Kumamoto, Japan.
 - Instagram: https://www.instagram.com/tadashi.shigeoka/
 - LinkedIn: https://www.linkedin.com/in/tadashishigeoka/
 - Qiita: https://qiita.com/codenote
+- しずかなインターネット: https://sizu.me/shige
 - Speaker Deck: https://speakerdeck.com/codenote
 - Threads: https://www.threads.net/@tadashi.shigeoka
 - Twitter: https://twitter.com/codenote_net
