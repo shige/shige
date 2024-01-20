@@ -24,3 +24,8 @@ I'm a software engineer in Kumamoto, Japan.
 - YOUTRUST: https://youtrust.jp/users/shige
 - Wantedly: https://www.wantedly.com/id/tadashi_shigeoka
 - Zenn: https://zenn.dev/shige
+
+#### 💖 Sponsoring
+- NestJS: https://opencollective.com/nest
+- Ruby Association: https://www.ruby.or.jp/ja/sponsors/donation/donor/2023
+- Vite: https://github.com/sponsors/vitejs
