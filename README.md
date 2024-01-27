@@ -26,6 +26,7 @@ I'm a software engineer in Kumamoto, Japan.
 - Zenn: https://zenn.dev/shige
 
 #### 💖 Sponsoring
+- Masataka Pocke Kuwabara: https://github.com/sponsors/pocke
 - NestJS: https://opencollective.com/nest
 - Ruby Association: https://www.ruby.or.jp/ja/sponsors/donation/donor/2023
 - Vite: https://github.com/sponsors/vitejs
