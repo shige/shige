@@ -11,6 +11,7 @@ I'm a software engineer in Kumamoto, Japan.
 - Blog: https://codenote.net/
 - Bluesky: https://bsky.app/profile/codenote.net
 - Chatwork: https://www.chatwork.com/tadashi_shigeoka
+- Crunchbase: https://www.crunchbase.com/person/tadashi-shigeoka
 - Facebook: https://www.facebook.com/tadashi.shigeoka
 - GitHub: https://github.com/shige
 - Instagram: https://www.instagram.com/tadashi.shigeoka/
