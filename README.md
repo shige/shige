@@ -16,6 +16,7 @@ I'm a software engineer in Kumamoto, Japan.
 - GitHub: https://github.com/shige
 - Instagram: https://www.instagram.com/tadashi.shigeoka/
 - LinkedIn: https://www.linkedin.com/in/tadashishigeoka/
+- Mewst: https://mewst.com/@shige
 - Qiita: https://qiita.com/codenote
 - しずかなインターネット: https://sizu.me/shige
 - Speaker Deck: https://speakerdeck.com/codenote
