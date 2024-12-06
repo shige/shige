@@ -21,6 +21,7 @@ I'm a software engineer in Kumamoto, Japan.
 - Qiita: https://qiita.com/codenote
 - しずかなインターネット: https://sizu.me/shige
 - Speaker Deck: https://speakerdeck.com/codenote
+- Stack Overflow: https://stackoverflow.com/users/938820/tadashi-shigeoka
 - Threads: https://www.threads.net/@tadashi.shigeoka
 - Twitter: https://twitter.com/codenote_net
 - X (Formally Twitter): https://x.com/codenote_net
