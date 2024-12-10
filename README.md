@@ -14,6 +14,7 @@ I'm a software engineer in Kumamoto, Japan.
 - Crunchbase: https://www.crunchbase.com/person/tadashi-shigeoka
 - Facebook: https://www.facebook.com/tadashi.shigeoka
 - GitHub: https://github.com/shige
+- HackerNoon: https://hackernoon.com/u/shige
 - Instagram: https://www.instagram.com/tadashi.shigeoka/
 - LinkedIn: https://www.linkedin.com/in/tadashishigeoka/
 - Mewst: https://mewst.com/@shige
