@@ -33,7 +33,6 @@ I'm a software engineer in Kumamoto, Japan.
 #### 💖 Sponsoring
 - Biome: https://github.com/sponsors/biomejs
 - Masataka Pocke Kuwabara: https://github.com/sponsors/pocke
-- NestJS: https://opencollective.com/nest
 - Python: https://github.com/sponsors/python
 - Ruby Association: https://www.ruby.or.jp/ja/sponsors/donation/donor/2024
 - yhatt (Yuki Hattori): https://github.com/sponsors/yhatt
