@@ -25,6 +25,7 @@ I'm a software engineer in Kumamoto, Japan.
 - Stack Overflow: https://stackoverflow.com/users/938820/tadashi-shigeoka
 - Threads: https://www.threads.net/@tadashi.shigeoka
 - Twitter: https://twitter.com/codenote_net
+- Reddit: https://www.reddit.com/user/codenote_net/
 - X (Formally Twitter): https://x.com/codenote_net
 - YOUTRUST: https://youtrust.jp/users/shige
 - Wantedly: https://www.wantedly.com/id/tadashi_shigeoka
