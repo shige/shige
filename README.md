@@ -20,6 +20,7 @@ I'm a software engineer in Kumamoto, Japan.
 - LinkedIn: https://www.linkedin.com/in/tadashishigeoka/
 - Mewst: https://mewst.com/@shige
 - note https://note.com/tadashi_shigeoka/
+- Product Hunt: https://www.producthunt.com/@codenote
 - Qiita: https://qiita.com/codenote
 - しずかなインターネット: https://sizu.me/shige
 - Speaker Deck: https://speakerdeck.com/codenote
