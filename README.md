@@ -35,6 +35,7 @@ I'm a software engineer in Kumamoto, Japan.
 
 #### 💖 Sponsoring
 - Biome: https://github.com/sponsors/biomejs
+- Homebrew: https://github.com/sponsors/Homebrew
 - Python: https://github.com/sponsors/python
 - yhatt (Yuki Hattori): https://github.com/sponsors/yhatt
 - Vite: https://github.com/sponsors/vitejs
