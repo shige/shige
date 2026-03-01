@@ -34,6 +34,7 @@ I'm a software engineer in Kumamoto, Japan.
 - Zenn: https://zenn.dev/shige
 
 #### 💖 Sponsoring
+- antfu (Anthony Fu): https://github.com/sponsors/antfu
 - Biome: https://github.com/sponsors/biomejs
 - Homebrew: https://github.com/sponsors/Homebrew
 - Python: https://github.com/sponsors/python
