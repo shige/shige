@@ -35,6 +35,7 @@ I'm a software engineer in Kumamoto, Japan.
 
 #### 💖 Sponsoring
 - antfu (Anthony Fu): https://github.com/sponsors/antfu
+- aquaproj: https://github.com/sponsors/aquaproj
 - Biome: https://github.com/sponsors/biomejs
 - Homebrew: https://github.com/sponsors/Homebrew
 - Python: https://github.com/sponsors/python
